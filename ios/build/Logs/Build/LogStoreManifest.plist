@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F486E0C-7657-4EA1-99EC-3F2B10B2173C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0F486E0C-7657-4EA1-99EC-3F2B10B2173C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>smallCase1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>smallCase1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project smallCase1 with scheme smallCase1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569121989.29422295</real>
+			<key>timeStoppedRecording</key>
+			<real>569121990.75195503</real>
+			<key>title</key>
+			<string>Building project smallCase1 with scheme smallCase1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0F486E0C-7657-4EA1-99EC-3F2B10B2173C</string>
+		</dict>
+		<key>4E4BAEEB-9F51-4900-87B8-979C2E23204C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4E4BAEEB-9F51-4900-87B8-979C2E23204C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>smallCase1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>smallCase1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project smallCase1 with scheme smallCase1 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>569118344.742576</real>
+			<key>timeStoppedRecording</key>
+			<real>569118359.70873201</real>
+			<key>title</key>
+			<string>Building project smallCase1 with scheme smallCase1 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4E4BAEEB-9F51-4900-87B8-979C2E23204C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
