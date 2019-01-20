@@ -4,5 +4,6 @@ features to learn
 3: Api calls 
 4: Using graphs
 
-Run npm install
-react-native run-ios
+Run 
+1:npm install
+2:react-native run-ios
